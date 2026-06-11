@@ -1,0 +1,6 @@
+Filter | Fixed | Otsu | Adaptive
+
+NB04 | 6 | 1 | 106
+NB05 | 3 | 1 | 101
+NB06 | 1 | 1 | 106
+NB07 | 2 | 1 | 97

@@ -1,0 +1,9 @@
+Pearson Correlation : -0.1347
+Pearson p-value     : 0.8653
+
+Spearman Correlation: 0.0000
+Spearman p-value    : 1.0000
+
+Conclusion:
+No statistically significant correlation was observed between
+active-region area and mean intensity in the analyzed SUIT data.
